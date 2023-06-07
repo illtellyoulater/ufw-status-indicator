@@ -1,0 +1,8 @@
+{
+  "name": "ufw-status-indicator",
+  "description":"UFW Status Indicator is a gnome shell extension allowing you quickly and easily check the status of your firewall",
+  "version": 1,
+  "uuid": "ufw-status-indicator@illtellyoulater.github.io",
+  "url": "https://github.com/illtellyoulater/ufw-status-indicator",
+  "shell-version": ["40", "42"]
+}
