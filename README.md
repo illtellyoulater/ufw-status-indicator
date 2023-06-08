@@ -1,6 +1,6 @@
-# UFW Status Indicator: a visual indicator for the Uncomplicated Firewall (ufw)
+# ufw Status Indicator: a visual indicator for the Uncomplicated Firewall
 
-**UFW Status Indicator** is a Gnome Shell extension that provides a nice and reliable visual indicator for the Uncomplicated Firewall (ufw) status.
+**ufw Status Indicator** is a Gnome Shell extension that provides a nice and reliable visual indicator for the Uncomplicated Firewall (ufw).
 
 It looks like this 
 
