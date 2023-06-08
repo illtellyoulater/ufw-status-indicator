@@ -10,7 +10,7 @@ It looks like this
 
 ![ufw-status-indicator-ufw-disabled](ufw-status-indicator-ufw-disabled.png)
 
-and it nicely complements [Gufw](https://github.com/costales/gufw), a beautiful and functional ufw GUI by @costales which is also shown in the above screenshots, and which I highly recommend trying out for a seamless and user-friendly firewall management experience.
+and it nicely complements [Gufw](https://github.com/costales/gufw), a beautiful and functional ufw GUI by [@costales](https://github.com/costales/) which is also shown in the above screenshots, and which I highly recommend trying out for a seamless and user-friendly firewall management experience.
 
 ## How the extension works
 
