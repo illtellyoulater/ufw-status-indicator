@@ -12,7 +12,7 @@ It looks like this
 
 and it nicely complements [Gufw](https://github.com/costales/gufw), a beautiful and functional ufw GUI by [@costales](https://github.com/costales/) which is also shown in the above screenshots, and which I highly recommend trying out for a seamless and user-friendly firewall management experience.
 
-## How the extension works
+## How it works
 
 To enable the extension to function properly, a root cron job is required. This cron job runs the command `ufw status` once every minute and copies the output to `/var/log/ufw-indicator.ext.log`. This file is monitored by the extension, and as soon an update is detected it will read the file and change the UFW indicator icon accordingly. 
 
